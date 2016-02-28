@@ -1,0 +1,32 @@
+_repo: Anne-Bradstreet-and-Her-Time_6854
+creator:
+  author:
+    agent_name: Campbell, Helen
+    aliases:
+    - Weeks, Helen C. (Helen Campbell)
+    - Campbell, Helen Stuart, Mrs.
+    - Wheaton, Campbell
+    birthdate: 1839
+    deathdate: 1918
+    gutenberg_agent_id: '2222'
+    url: http://www.gutenberg.org/2009/agents/2222
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Stuart_Campbell
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6854'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bradstreet, Anne, 1612?-1672'
+- !lcsh 'Bradstreet, Anne, 1612?-1672 -- Criticism and interpretation'
+- !lcsh 'Poets, American -- Colonial period, ca. 1600-1775 -- Biography'
+- !lcsh 'Puritan women -- New England -- Biography'
+- !lcsh 'Women and literature -- New England -- History -- 17th century'
+- !lcsh 'New England -- Intellectual life -- 17th century'
+- !lcc 'PS'
+title: Anne Bradstreet and Her Time
+url: http://www.gutenberg.org/ebooks/6854
